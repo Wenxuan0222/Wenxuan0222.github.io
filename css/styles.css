@@ -76,7 +76,7 @@ header{
   width: 80%;
   /* align-self: center;
   justify-self: center; */
-  margin: 20px 80px;
+  margin: 20px 60px;
   
 }
 
@@ -284,6 +284,7 @@ p{
     height: 500px;
     border-radius: 5px;
     margin:8% 2%;
+    margin-bottom: 170px;
     /* margin-top:20%; */
   }
 
