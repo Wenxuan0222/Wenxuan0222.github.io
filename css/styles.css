@@ -71,14 +71,13 @@ header{
   
   border-radius: 0.5em;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   padding-bottom: 40px;
-  width: 80%;
-  /* align-self: center;
-  justify-self: center; */
-  margin: 20px 55px;
-  display:flex;
-  align-items: center;
+  
+  margin: 20px 80px;
+  display: flex;
+        justify-content: center;
+        flex-direction: column;
   
 }
 
@@ -258,15 +257,15 @@ p{
 
   .welcome {
     padding: 50px;
-   
+     
     box-shadow: rgba(99, 0.3, 0.2, 0.2) 0px 2px 2px 5px;
-    grid-area: main;
+    grid-area: main; 
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin:2%;
-    border-radius: 5px;
+    border-radius: 5px; 
   }
 
 
@@ -286,7 +285,6 @@ p{
     height: 500px;
     border-radius: 5px;
     margin:8% 2%;
-    margin-top: 80px;
     margin-bottom: 170px;
     /* margin-top:20%; */
   }
