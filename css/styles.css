@@ -76,9 +76,9 @@ header{
   width: 80%;
   /* align-self: center;
   justify-self: center; */
-  margin: 20px 45px;
-  /* display:flex;
-  align-items: center; */
+  margin: 20px 55px;
+  display:flex;
+  align-items: center;
   
 }
 
